@@ -67,6 +67,10 @@ namespace fixprt
         {
             NativeMethods.AllocConsole();
             filenametrim = args[1].Substring(0, args[1].LastIndexOf(".") + 1);
+            if (filenametrim == "")
+            {
+                filenametrim = args[1] + ".";
+            }
             filenametrimsafe = Path.GetFileNameWithoutExtension(filenametrim);
             StreamWriter sw = File.AppendText(filenametrim + "log");
             Console.WriteLine("fixprt v1.0.0 (25/3/2020)");
