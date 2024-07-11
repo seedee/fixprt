@@ -1,8 +1,5 @@
 # fixprt
-This application fixes Half-Life portal files, allowing you to import them into other software, such as J.A.C.K.
+This is an obsolete tool that reformats Half-Life portal files so they can be imported to J.A.C.K. This tool's functionality is default in <a href="https://gamebanana.com/tools/6778">SDHLT</a>
 
 ## Links
-- GameBanana Page
-    https://gamebanana.com/tools/6786
-- GitHub Releases
-    https://github.com/seedee/fixprt/releases/tag/1.0.0
+- [SDHLT](https://github.com/seedee/SDHLT)
