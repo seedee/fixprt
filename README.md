@@ -5,11 +5,11 @@ This tool reformats Half-Life portal files so they can be imported to J.A.C.K. Y
 
 ![GUI demo](demo/5e8a916de6b88.jpg)
 
-![J.A.C.K. run map](docs/5e8a916de3c18.jpg)
+![J.A.C.K. run map](demo/5e8a916de3c18.jpg)
 
 ![VHE run map](demo/5e8a916ddfa81.jpg)
 
-![CLI demo](docs/5e8a916ddee16.jpg)
+![CLI demo](demo/5e8a916ddee16.jpg)
 
 ## Links
 - [SDHLT](https://github.com/seedee/SDHLT)
